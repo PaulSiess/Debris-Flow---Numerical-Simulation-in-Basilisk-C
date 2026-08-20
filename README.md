@@ -4,8 +4,7 @@
 ## Results
 
 <p align="center">
-  <img src="Example : Debris_flow_3D_view_video.mp4" width="45%">
-  <img src="images/debris_flow_3D.png" width="45%">
+  <img src="Example : Results.png" width="45%">
 </p>
 
 ## DESCRIPTION
