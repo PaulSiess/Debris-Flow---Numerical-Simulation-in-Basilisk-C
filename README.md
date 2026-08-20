@@ -109,6 +109,7 @@ Results are saved in the 'results/' folder (must be created before running)
 
 ## WORKFLOW SIMPLIFIED
 
+```text
 main()
   │
   ├── Domain Initialisation
@@ -143,7 +144,7 @@ main()
   │           └── update simulation_log.txt
   │
   └── End of program
-
+'''
 
 
 ## SIMULATION TIME
