@@ -5,12 +5,13 @@
 
 ## DESCRIPTION
 
-It is a numerical simulation of debris flow propagation 
+Numerical simulation of debris flow propagation <br>
 Using the Saint-Venant shallow-water equations with Voellmy friction law, on an adaptive quadtree grid (AMR).
 
-> This code was developed by students for a final year Master's project
-> It is an adaptation of an existing Gerris simulation, transposed to Basilisk C
-> Some parts were improved with the assistance of AI
+
+This code was developed by students for a final year Master's project<br>
+It is an adaptation of an existing Gerris simulation, transposed to Basilisk C<br>
+Some parts were improved with the assistance of AI<br>
 
 
 
@@ -62,27 +63,27 @@ MU, XI, END, LEVEL : adjust as needed
 
 
 ## SET-UP FOR THIS PROJECT - Debris Flow
-> Folder terrain with the input files
-> Create a 'results' folder
+1. Folder terrain with the input files
+2. Create a 'results' folder
 
 
 
 ## COMPILATION 
 
-> Standard (single core) 
-   > bash : qcc debris_flow.c -O2 -o debris_flow -lm
+- Standard (single core) :<br>
+   bash : **qcc debris_flow.c -O2 -o debris_flow -lm**
 
-> Faster (multi-core)
-1. Check how many cores are available 
-   > bash : nproc
-2. Compile with the desired number of threads (here 8 out of 12)
-   > bash : qcc -O2 -fopenmp debris_flow.c -o debris_flow -lm && OMP_NUM_THREADS=8
+- Faster (multi-core) : <br>
+1. Check how many cores are available <br>
+   bash : **nproc**
+2. Compile with the desired number of threads (here 8 out of 12) <br>
+   bash : **qcc -O2 -fopenmp debris_flow.c -o debris_flow -lm && OMP_NUM_THREADS=8**
 
 
 
 ## RUNNING THE SIMULATION 
 
-> bash : ./debris_flow
+bash : **./debris_flow**
 
 
 
@@ -150,24 +151,24 @@ main()
 ## SIMULATION TIME
 
 With 8 threads it usually takes : 
-For a LEVEL = 11, END = 600 (s) >> ~ 20 minutes
-For a LEVEL = 10, END = 300 (s) >> ~ 3 minutes
+- For a LEVEL = 11, END = 600 (s) >> ~ 20 minutes
+- For a LEVEL = 10, END = 300 (s) >> ~ 3 minutes
 
 
 
 ## POST-PROCESSING 
 
-> Visualisation >> QGIS (.asc is already georeferenced)
-> Volume calculation >> Python (comparison with the observed DoD volume)
+- Visualisation >> QGIS (.asc is already georeferenced)
+- Volume calculation >> Python (comparison with the observed DoD volume)
 
 
 ------------------------------------------------------------------------
 
 ## AUTHOR
 
-Paul SIESS - paul.siess39@gmail.com
-Master's student - ENSEGID 
-Final year project 2025/2026
+Paul SIESS - paul.siess39@gmail.com <br>
+Master's student - ENSEGID <br>
+Final year project 2025/2026 <br>
 
 
 Supervised by: Anne-Laure ARGENTIN 
