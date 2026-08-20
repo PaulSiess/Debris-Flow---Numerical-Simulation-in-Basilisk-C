@@ -144,7 +144,7 @@ main()
   │           └── update simulation_log.txt
   │
   └── End of program
-'''
+```
 
 
 ## SIMULATION TIME
