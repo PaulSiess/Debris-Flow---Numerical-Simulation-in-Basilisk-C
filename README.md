@@ -166,9 +166,9 @@ With 8 threads it usually takes :
 
 ## AUTHOR
 
-Paul SIESS - paul.siess39@gmail.com <br>
+**Paul SIESS** - paul.siess39@gmail.com <br>
 Master's student - ENSEGID <br>
 Final year project 2025/2026 <br>
 
 
-Supervised by: Anne-Laure ARGENTIN 
+Supervised by: **Anne-Laure ARGENTIN** 
