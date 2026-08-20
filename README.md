@@ -22,22 +22,19 @@ Using the Saint-Venant shallow-water equations with Voellmy friction law, on an 
 - An empty 'results' folder in your Basilisk working directory
 
 
-
 ## PROJECT STRUCTURE
 
+```text
 project/
-│
 ├── code.c
 ├── README.md
 ├── simulation_log.txt
 ├── terrain/
-│   ├── without_rockfall.asc
-│   ├── only_rockfall.asc
-│   └── DoD.asc
-│
+│ ├── without_rockfall.asc
+│ ├── only_rockfall.asc
+│ └── DoD.asc
 └── results/
-
-
+```
 
 ## INPUT FILES
 
