@@ -4,7 +4,7 @@
 ## Results
 
 <p align="center">
-  <img src="Results.png" width="45%">
+  <img src="Results.png" width="40%">
 </p>
 
 ## DESCRIPTION
