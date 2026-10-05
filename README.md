@@ -1,7 +1,7 @@
 ----------------------------------------------------
 ## Debris Flow Numerical Simulation — Basilisk C
 ----------------------------------------------------
-## Results
+## RESULTS
 
 <p align="center">
   <img src="Results.png" width="100%">
