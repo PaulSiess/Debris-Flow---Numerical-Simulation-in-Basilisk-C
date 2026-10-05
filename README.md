@@ -155,8 +155,8 @@ main()
 ## SIMULATION TIME
 
 With 8 threads it usually takes : 
-- For a LEVEL = 11, END = 600 (s) >> ~ 20 minutes
-- For a LEVEL = 10, END = 300 (s) >> ~ 3 minutes
+- For a LEVEL = 11, END = 600 (s) &rarr; ~ 20 minutes
+- For a LEVEL = 10, END = 300 (s) &rarr; ~ 3 minutes
 
 
 
