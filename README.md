@@ -5,7 +5,7 @@
 
 <figure style="text-align: center;">
   <img src="Results.png" width="100%">
-  <figcaption style="text-align: center;"> _Figure 1: Numerical modelling results of a debris flow on the Plaies Alluvial fan, Trafoi Valley, South Tyrol, Italy_
+  <figcaption style="text-align: center;"> Figure 1: Numerical modelling results of a debris flow on the Plaies Alluvial fan, Trafoi Valley, South Tyrol, Italy
 </p>
 
 ## DESCRIPTION
