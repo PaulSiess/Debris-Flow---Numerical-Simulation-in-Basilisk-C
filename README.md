@@ -22,7 +22,7 @@ Some parts were improved with the assistance of AI<br>
 
 ## REQUIREMENTS
 
-- [Basilisk C] (http://basilisk.fr) installed
+- [Basilisk C] software (http://basilisk.fr) installed
 - Input rasters in ESRI ASCII format (.asc)
 - A 'terrain' folder in your Basilisk working directory
 - An empty 'results' folder in your Basilisk working directory
